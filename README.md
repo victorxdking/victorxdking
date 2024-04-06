@@ -47,7 +47,7 @@
   <p align="right">
 
   **Systems Analysis and Development** <br />
-  [**FATEC - Franca**](https://site.fatecfranca.edu.br) • fev/2021 > dec/2024 <br />
+  [**FATEC Franca**](https://site.fatecfranca.edu.br) • fev/2021 > dec/2024 <br />
   Higher education
   </p>
 </div>
