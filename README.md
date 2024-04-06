@@ -42,7 +42,7 @@
 
 <div>
 
-  [<img align="left" width="94px" alt="FATEC" src="./assets/fatec.jpg"/>](https://site.fatecfranca.edu.br)
+  [<img align="left" width="100px" alt="FATEC" src="./assets/fatec.png"/>](https://site.fatecfranca.edu.br)
 
   <p align="right">
 
